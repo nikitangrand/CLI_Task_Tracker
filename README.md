@@ -14,6 +14,6 @@
 ## 🚀 Getting Started
 ```bash
 # Clone and run
-git clone https://github.com/yourusername/cli-task-tracker
-cd cli-task-tracker
+git clone https://github.com/nikitangrand/CLI_Task_Tracker
+cd CLI_Task_Tracker
 go run main.go
